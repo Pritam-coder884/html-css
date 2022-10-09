@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+}
+h1{
+    color:blue;
+    font-size:50px;
+}
+.space{
+    outline:inset 0.1px;
+}
+.space:hover{
+    background-color:black;
+    color:white;
+}
+td{
+    padding:15px;
+}
+h2{
+    position:absolute;
+    top:530px;
+    left:20%;
+}
