@@ -1,0 +1,174 @@
+<?php 
+  // echo "<h1>hello pritam !!!!</h1>";
+  
+
+  // $name="pritam";
+  // $age=20;
+
+  // echo "my name is $name";
+
+  // echo "<br/>";
+
+  // echo 'my name is '.$name;
+
+  // echo "<br/>";
+  // echo 'my age is $age';
+  // echo "my age is $age";
+
+
+  // define('a',"my name is sibu");
+  // echo "<br/>";
+  // echo a;
+
+
+  echo "<br/>";
+  echo "<br/>";
+
+  // $a=10;
+  // $b=2;
+
+  // var_dump($a); // It gives the data type
+  // var_dump($b);
+
+  // $c = $a == $b; //( if the two values are equal the digit 1 will be shown else there is nothing to show.)
+
+  // $c = $a === $b; //( if the two values are equal the digit 1 will be shown else there is nothing to show.)
+
+  
+
+  // echo $a++; //post increment
+  // echo "<br/>";
+
+  // echo ++$a; //pre increment
+
+  // echo $a > $b;
+  
+
+  // if else
+
+  // $a=10;
+  // $b=20;
+  // if($a > $b){
+  //   echo "$a is greater than $b";
+  // }
+  // else{
+  //   echo "$a is smaller than $b";
+  // }
+
+
+  // switch case
+
+  // $a=3;
+  // switch($a){
+  //   case 2:
+  //     echo "This is switch case 2";
+  //     break;
+  //   case 3:
+  //     echo "This is switch case 3";  
+  // }
+
+  // while loop
+  
+  // $a=3;
+  // while($a<10){
+  //   echo "this is a while no. $a ";
+  //   echo "<br/>";
+  //   $a++;
+  // }
+
+  // do{
+  //   echo "this is do while loop <br/>";
+  // }while(100<10);
+
+  // for loop 
+  // for($a=1;$a<10;$a++){
+  //   echo "this is for loop no. $a <br/>";
+  // }
+
+
+
+  // STRINGS
+
+  // $a="Pritam Kumar Dash";
+  // echo strlen($a);
+  // echo str_word_count($a);
+  // echo strtoupper($a);
+  // echo strtolower($a);
+
+
+
+  // Functions
+
+  // The real power of PHP comes from its functions ;
+  // it has more than 1000 built-in functions.
+
+  // Besides the built-in PHP functions, we can create our own functions.
+
+  // A function is a block of statements that can be used repeatedly in a program.
+
+  // A function will not execute immediately when a page loads.
+
+  // A function will be executed by a call to the function.
+
+  // A function name can start with a letter or underscore (not a number).
+
+
+  // pritam();
+
+  // function pritam(){
+  //   $a=10;
+  //   $b=580;
+  //   $c=$a+$b;
+  //   echo $c;
+  // }
+  // echo "<br/>";
+
+
+    // echo sibu(5,10);  
+
+    // function sibu($x,$y){
+    //  return $x+$y;
+    // }
+ 
+
+
+    // Array 
+
+    // In PHP , there are three types of arrays 
+    
+    // Indexed arrays: Arrays with numeric index
+    
+    // Associative arrays: Arrays with named keys
+
+    // Multidimensional arrays:Arrays containing one or more arrays
+     
+
+
+
+
+    // 1. Indexed arrays (array index start with 0)
+
+    // $india= array("delhi","mumbai","chennai");
+
+    // echo $india[1];
+
+
+    // 2. Associative array (key => value)
+   
+    // $india= array("capital" => "delhi","mumbai","south-city" => "chennai");
+    // echo $india["capital"];
+
+    // echo "<br/>";
+    // echo $india["south-city"];
+    
+
+
+    // echo "<br/>";
+    // echo "<br/>";
+
+    // foreach($india as $arr){
+    //   echo $arr;
+    //   echo "<br/>";
+    // }
+
+?>
