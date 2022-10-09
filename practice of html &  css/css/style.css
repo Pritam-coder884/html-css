@@ -1,0 +1,30 @@
+
+body{
+    background-color: rgb(200, 186, 186);
+    background-size: cover;
+}
+.red{
+    color:blue;
+    font-size:25px;
+}
+#equation{
+    text-align: center;
+}
+.content{
+    background-color: black;
+    height:600px;
+}
+.content a{
+    text-decoration: none;
+    color:white;
+}
+.content a:hover{
+    color:orangered;
+}
+
+.content ul li{
+    display:inline-block;
+    padding-top: 10px;
+    padding:20px;
+    font-size: 25px;
+}
