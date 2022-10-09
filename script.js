@@ -1,9 +1,0 @@
-let a=document.getElementById("csk");
-let b=document.getElementById("dc");
-let c=document.getElementById("rcb");
-let d=document.getElementById("kkr");
-let e=document.getElementById("mi");
-let f=document.getElementById("pbks");
-let g=document.getElementById("rr");
-let h=document.getElementById("srh");
-let pts=document.getElementById("p1");
